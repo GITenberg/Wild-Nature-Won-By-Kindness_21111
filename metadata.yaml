@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9737'
     url: http://www.gutenberg.org/2009/agents/9737
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21111#Wild-Nature-Won-By-Kindness
 gutenberg_bookshelf:
 - Animals-Wild
 - Biology

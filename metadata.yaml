@@ -1,0 +1,30 @@
+_repo: Wild-Nature-Won-By-Kindness_21111
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21111-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brightwen, Mrs. (Eliza Elder)
+    alias: Brightwen, Eliza Elder
+    birthdate: 1830
+    deathdate: 1906
+    gutenberg_agent_id: '9737'
+    url: http://www.gutenberg.org/2009/agents/9737
+description: Illustrated by the author.
+gutenberg_bookshelf:
+- Animals-Wild
+- Biology
+gutenberg_issued: '2007-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QH'
+title: Wild Nature Won By Kindness
+url: http://www.gutenberg.org/ebooks/21111
